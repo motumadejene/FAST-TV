@@ -1,0 +1,1 @@
+C:\Users\DELL\Downloads\Telegram Desktop\TV_App\TV_App\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\UnitySwappyWrapper.h
